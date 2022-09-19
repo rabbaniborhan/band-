@@ -1,0 +1,92 @@
+
+
+
+.love{
+    text-align: center;
+
+}
+.mute{
+    display: block;
+    text-align:center;
+}
+
+.details{
+    margin-left:100px ;
+    margin-right: 100px;
+    text-align: justify;
+
+}
+.container{
+    margin-top: 20px;
+}
+.man{
+    display: flex;
+    margin-left: 250px;
+    margin-bottom: 100px;
+}
+.manimg{
+    width: 150px;
+    height: 150px;
+    
+
+}
+.img {
+    text-align: center;
+    margin: 30px;
+}
+.black{
+    background-color:black;
+    width: 100%;
+    height:1000px;
+}
+.date{
+    color: white;
+    text-align: center;
+
+    padding-top: 150px;
+}
+.tickets{
+    width: 60%;
+    height: 150px;
+    background-color:white ;
+    margin-left: 250px;
+}
+.month{
+    display: flex;
+    margin-left: 20px;
+    height: 25px;
+    
+}
+.sold{
+    background-color: red;
+    color: white;
+    width: 70px;
+    height: 25px;
+    border: 1px solid red;
+    margin-left: 15px;
+    text-align: center;
+margin-top: 9px;
+}
+.month1{
+    margin-top:8px;
+}
+
+
+.card1{
+
+    margin: 40px;
+
+
+}
+
+.card-img-top{
+    width: 70px;
+    height: 300px;
+}
+.buy{
+    background-color: green;
+    color: white;
+}
+.card1{
+    width: 60%;
+}
